@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="assets/logo.jpg" alt="logo" style="zoom:0.5%;" />
+<!-- <img src="assets/logo.jpg" alt="logo" style="zoom:0.5%;" /> -->
 
 <h2>You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale</h2>
 
@@ -28,8 +28,8 @@ Benefiting from the proposed web-scale dataset **WebVi3D**, **See3D** enables bo
 - We achieve state-of-the-art results in single and sparse views reconstruction, demonstrating remarkable zero-shot and open-world generation capability, offering a novel perspective on scalable 3D generation.
 
 ## News
-**[12/7/2024]**
-We have released the pretrained models and inference code. You can download models and example data [here](https://drive.google.com/drive/folders/1uz4NtAtYYiV53dYlJ_I78fVzqxUBk-Fb?usp=sharing/)
+**[12/10/2024]**
+We have released the pretrained models and inference code. You can download models and example test data [here](https://drive.google.com/drive/folders/1uz4NtAtYYiV53dYlJ_I78fVzqxUBk-Fb?usp=sharing/)
 
 ## Installation
 ```sh
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ```
 
 ## Inference Code
-We provide inference code for multi-view generation based on single-view and sparse-view inputs. Please add or remove the `--super_resolution` parameter according to your needs. The multi-view super-resolution model will upscale the default 512 resolution to a consistent 1024 resolution across multiple views, which requires more inference time and GPU memory. Please download the example data [here](https://drive.google.com/drive/folders/1uz4NtAtYYiV53dYlJ_I78fVzqxUBk-Fb?usp=sharing/) and put it in the `dataset` folder.
+We provide inference code for multi-view generation based on single-view and sparse-view inputs. Please add or remove the `--super_resolution` parameter according to your needs. The multi-view super-resolution model will upscale the default 512 resolution to a consistent 1024 resolution across multiple views, which requires more inference time and GPU memory. Please download the example test data [here](https://drive.google.com/drive/folders/1uz4NtAtYYiV53dYlJ_I78fVzqxUBk-Fb?usp=sharing/) and put it in the `dataset` folder.
 ### Generation Based on Single View Input
 ```sh
 bash single_infer.sh
