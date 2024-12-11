@@ -3,7 +3,7 @@
 
 <h2>You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale</h2>
 
-[Baorui Ma*](https://mabaorui.github.io), [Huachen Gao*](https://gaohchen.github.io/), [Haoge Deng*](https://github.com/Bitterdhg/), [Zhengxiong Luo](https://greatlog.github.io/), [Tiejun Huang](https://scholar.google.com/citations?user=knvEK4AAAAAJ&hl=en), [Lulu Tang†](https://scholar.google.com/citations?hl=zh-CN&user=o2fG4xUAAAAJ/), [Xinlong Wang†](https://www.xloong.wang/)
+[Baorui Ma*](https://mabaorui.github.io), [Huachen Gao*](https://gaohchen.github.io/), [Haoge Deng*](https://github.com/Bitterdhg/), [Zhengxiong Luo](https://greatlog.github.io/), [Tiejun Huang](https://scholar.google.com/citations?user=knvEK4AAAAAJ&hl=en), [Lulu Tang†](https://scholar.google.com/citations?authuser=1&user=o2fG4xUAAAAJ), [Xinlong Wang†](https://www.xloong.wang/)
 
 [Beijing Academy of Artificial Intelligence, BAAI](https://www.baai.ac.cn/english.html)<br>
 <sup>*</sup> Equal Contribution, <sup>†</sup> Corresponding Author
