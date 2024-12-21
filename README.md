@@ -8,8 +8,6 @@
 [Beijing Academy of Artificial Intelligence, BAAI](https://www.baai.ac.cn/english.html)<br>
 <sup>*</sup> Equal Contribution, <sup>†</sup> Corresponding Author
 
-🤗 If you find See3D useful, **please help ⭐ this repo**, which is important to Open-Source projects. Thanks!
-
 ## [Paper](https://arxiv.org/abs/2412.06699/) | [Project Page](https://vision.baai.ac.cn/see3d/) | [Models(Google Drive)](https://drive.google.com/drive/folders/1uz4NtAtYYiV53dYlJ_I78fVzqxUBk-Fb?usp=sharing/) |[🤗HF Models](https://huggingface.co/bruiiii/See3D/)| [Dataset]()
 
 </div>
