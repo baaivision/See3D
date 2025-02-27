@@ -1,7 +1,7 @@
 <div align='center'>
 <!-- <img src="assets/logo.jpg" alt="logo" style="zoom:0.5%;" /> -->
 
-<h2>You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale (CVPR 2025)</h2>
+<h2>You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale</h2>
 
 [Baorui Ma*](https://mabaorui.github.io), [Huachen Gao*](https://gaohchen.github.io/), [Haoge Deng*](https://github.com/Bitterdhg/), [Zhengxiong Luo](https://greatlog.github.io/), [Tiejun Huang](https://scholar.google.com/citations?user=knvEK4AAAAAJ&hl=en), [Lulu Tang†](https://scholar.google.com/citations?authuser=1&user=o2fG4xUAAAAJ), [Xinlong Wang†](https://www.xloong.wang/)
 
@@ -24,6 +24,9 @@ Benefiting from the proposed web-scale dataset **WebVi3D**, **See3D** enables bo
 - We achieve state-of-the-art results in single and sparse views reconstruction, demonstrating remarkable zero-shot and open-world generation capability, offering a novel perspective on scalable 3D generation.
 
 ## News
+**[02/27/2025]**
+See3D is accepted by CVPR 2025.
+
 **[12/13/2024]**
 We have released the pretrained models and example test data in Huggingface🤗.
 
