@@ -25,7 +25,7 @@ Benefiting from the proposed web-scale dataset **WebVi3D**, **See3D** enables bo
 
 ## News
 **[02/27/2025]**
-&#x1F680 See3D is accepted by CVPR 2025.
+See3D is accepted by CVPR 2025.
 
 **[12/13/2024]**
 We have released the pretrained models and example test data in Huggingface🤗.
