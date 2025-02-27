@@ -28,10 +28,10 @@ Benefiting from the proposed web-scale dataset **WebVi3D**, **See3D** enables bo
 :fire: See3D is accepted by CVPR 2025.
 
 **[12/13/2024]**
-We have released the pretrained models and example test data in Huggingface🤗.
+:rocket: We have released the pretrained models and example test data in Huggingface🤗.
 
 **[12/10/2024]**
-We have released the pretrained models and inference code. You can download models and example test data [here](https://drive.google.com/drive/folders/1uz4NtAtYYiV53dYlJ_I78fVzqxUBk-Fb?usp=sharing/)
+:rocket: We have released the pretrained models and inference code. You can download models and example test data [here](https://drive.google.com/drive/folders/1uz4NtAtYYiV53dYlJ_I78fVzqxUBk-Fb?usp=sharing/)
 
 ## Installation
 ```sh
@@ -71,10 +71,10 @@ Thanks to the maintainers of these projects for their contribution to the commun
 If you find See3D helpful, please consider citing:
 
 ```
-@inproceedings{Ma2024See3D,
+@inproceedings{Ma2025See3D,
     title = {You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale},
     author = {Baorui Ma and Huachen Gao and Haoge Deng and Zhengxiong Luo and Tiejun Huang and Lulu Tang and Xinlong Wang},
-    journal={arXiv preprint arXiv:2412.06699},
-    year={2024}
+    booktitle={IEEE/CVF conference on computer vision and pattern recognition},
+    year={2025}
 }
 ```  
