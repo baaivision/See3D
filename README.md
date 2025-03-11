@@ -24,6 +24,9 @@ Benefiting from the proposed web-scale dataset **WebVi3D**, **See3D** enables bo
 - We achieve state-of-the-art results in single and sparse views reconstruction, demonstrating remarkable zero-shot and open-world generation capability, offering a novel perspective on scalable 3D generation.
 
 ## News
+**[03/11/2025]**
+We have released the WebVi3D curation pipeline. Please refer to [this guide](https://github.com/baaivision/See3D/tree/master/Curation_Pipeline.md).
+
 **[02/27/2025]**
 :fire: See3D is accepted by CVPR 2025.
 
@@ -51,18 +54,20 @@ bash single_infer.sh
 ```sh
 bash sparse_infer.sh
 ```
+## Data Curation Pipeline of WebVi3D
+We provide the demo code of data curation pipeline given your own video dataset. Please refer to this [dataset README](https://github.com/baaivision/See3D/tree/master/Curation_Pipeline.md) for more details.
 
-## ToDo List
+## TODO List
 - [x] Release pretrained models.
 - [x] Release inference code.
+- [x] Release data curation pipeline from Internet Video.
 - [ ] Release training scripts.
-- [ ] Release data curation pipeline from Internet Video.
 - [ ] Release 3D generation framework utilizing the warping-based pipeline.
 - [ ] Release the evaluation code.
 
 ## Acknowledgement
 
-See3D is built using the awesome open-source projects: [Stable Diffusion](https://github.com/Stability-AI/stablediffusion), [MVDream](https://github.com/bytedance/MVDream), [ViewCrafter](https://github.com/Drexubery/ViewCrafter/tree/main), [FrozenRecon](https://github.com/aim-uofa/FrozenRecon)
+See3D is built using the awesome open-source projects: [Stable Diffusion](https://github.com/Stability-AI/stablediffusion), [MVDream](https://github.com/bytedance/MVDream), [ViewCrafter](https://github.com/Drexubery/ViewCrafter/tree/main), [FrozenRecon](https://github.com/aim-uofa/FrozenRecon).
 
 Thanks to the maintainers of these projects for their contribution to the community!
 

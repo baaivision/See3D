@@ -1,0 +1,5 @@
+scikit-image
+filelock
+jsonlines
+einops
+git+https://github.com/cvg/LightGlue.git
