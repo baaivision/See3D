@@ -25,7 +25,7 @@ Benefiting from the proposed web-scale dataset **WebVi3D**, **See3D** enables bo
 
 ## News
 **[03/11/2025]**
-We have released the WebVi3D curation pipeline. Please refer to [this guide](https://github.com/baaivision/See3D/tree/master/Curation_Pipeline.md).
+:rocket: We have released the WebVi3D curation pipeline. Please refer to [this guide](https://github.com/baaivision/See3D/tree/master/Curation_Pipeline.md).
 
 **[02/27/2025]**
 :fire: See3D is accepted by CVPR 2025.
