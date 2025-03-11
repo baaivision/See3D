@@ -200,7 +200,7 @@ def run(args, input_path, output_path, output_img_path):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--dataset_path", type=str, default="examples_vid/step1+2_outputs", help="Dataset path")
+    parser.add_argument("--dataset_path", type=str, default="examples_vid/step1+2_outputs", help="Intermediate dataset output path")
     parser.add_argument("--model", help="restore RAFT checkpoint",default="weights/raft-things.pth")
     parser.add_argument("--small", action="store_true", help="use small model")
     parser.add_argument("--mixed_precision", action="store_true", help="use mixed precision")
