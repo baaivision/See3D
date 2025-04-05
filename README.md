@@ -24,6 +24,9 @@ Benefiting from the proposed web-scale dataset **WebVi3D**, **See3D** enables bo
 - We achieve state-of-the-art results in single and sparse views reconstruction, demonstrating remarkable zero-shot and open-world generation capability, offering a novel perspective on scalable 3D generation.
 
 ## News
+**[04/05/2025]**
+:fire: See3D is selected as Highlight presentation!
+
 **[03/11/2025]**
 :rocket: We have released the WebVi3D curation pipeline. Please refer to [this guide](https://github.com/baaivision/See3D/tree/master/Curation_Pipeline.md).
 
