@@ -4,7 +4,7 @@ Our WebVi3D curation pipeline contains 4 steps, including:
 
 - Temporal-Spatial Downsampling
 - Semantic-Based Dynamic Recognition 
-- Non-Rigid Dynamic Filtering 
+- Dynamic Filtering 
 - Tracking-Based Small Viewpoint Filtering
 
 ## Running
